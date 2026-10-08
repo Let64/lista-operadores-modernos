@@ -15,16 +15,6 @@ console.log(temaSelecionado);
 const usuario = {};
 
 
-const pedido = {
-  cliente: {
-    nome: "Pedro"
-  }
-};
-
-const telefone = __________________________________________;
-console.log(telefone);
-
-
 
 
 
